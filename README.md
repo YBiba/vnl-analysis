@@ -1,4 +1,4 @@
-# Analysis of VNL 2023 data
+# Analysis of Volleyball Nations League (VNL) data
 
 ## Prerequisites
 
